@@ -68,9 +68,3 @@ This pakcage includes the development files required to build software against
 %{_libdir}/libxcb-render-util.so
 %{_libdir}/pkgconfig/xcb-renderutil.pc
 
-
-%changelog
-* Wed Oct 26 2011 Tomasz Pawel Gajc <tpg@mandriva.org> 0.3.8-1mdv2012.0
-+ Revision: 707430
-- import xcb-util-renderutil
-
