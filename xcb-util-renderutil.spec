@@ -64,7 +64,6 @@ This pakcage includes the development files required to build software against
 
 %files -n %{develname}
 %{_includedir}/xcb/xcb_renderutil.h
-%{_libdir}/libxcb-render-util.a
 %{_libdir}/libxcb-render-util.so
 %{_libdir}/pkgconfig/xcb-renderutil.pc
 
