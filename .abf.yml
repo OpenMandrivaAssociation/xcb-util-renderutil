@@ -1,4 +1,2 @@
-removed_sources:
-  xcb-util-renderutil-0.3.8.tar.bz2: ce6b6acb015fa47c716adfd83b2f36c874401277
 sources:
-  xcb-util-renderutil-0.3.9.tar.bz2: cb533b1d039f833f070e7d6398c221a31d30d5e2
+  xcb-util-renderutil-0.3.10.tar.xz: 574653197fae818a0d70464aecff6294047ed6c5
