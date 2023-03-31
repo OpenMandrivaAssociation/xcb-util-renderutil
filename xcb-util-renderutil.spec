@@ -7,7 +7,7 @@
 Summary:	xcb-util's xcb-renderutil
 Name:		xcb-util-renderutil
 Version:	0.3.10
-Release:	1
+Release:	2
 Url:		http://xcb.freedesktop.org
 Source0:	http://xcb.freedesktop.org/dist/%name-%{version}.tar.xz
 License:	MIT
